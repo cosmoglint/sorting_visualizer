@@ -1,3 +1,6 @@
+#all algorithms in a single file
+#should probably separate them
+
 def bubblesort(lst):
     for i in range(len(lst)):
         for j in range(i+1,len(lst)):
