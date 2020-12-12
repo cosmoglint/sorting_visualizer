@@ -1,5 +1,5 @@
 import generator
-import algorithms.algorithms
+
 
 
 list_length = int(input("enter length of list"))
